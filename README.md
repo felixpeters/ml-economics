@@ -1,4 +1,4 @@
-# ML Economics
+# ML Experiments
 
 This repository contains code for conducting experiment around the value of
 data, algorithm comparisons, and more.
