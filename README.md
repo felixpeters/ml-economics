@@ -11,4 +11,5 @@ create a virtual environment with all the necessary tools:
 1. Run `python3 -m venv venv` inside the repository folder to create a new virtual environment.
 2. Activate virtual environment via `source venv/bin/activate `.
 3. Install required packages using `pip install -r requirements.txt`.
-4. Start notebook server using `jupyter notebook`.
+4. Download data files from [credit card fraud detection Kaggle competition](https://www.kaggle.com/c/ieee-fraud-detection/data).
+5. Start notebook server using `jupyter notebook`.
